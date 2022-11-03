@@ -1,2 +1,2 @@
 # very-basic-resume
-https://github.com/Alpha-santhosh/very-basic-resume.git
+https://alpha-santhosh.github.io/very-basic-resume/
